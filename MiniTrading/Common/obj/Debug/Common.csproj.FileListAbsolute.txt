@@ -1,0 +1,6 @@
+E:\MiniTrading\MiniTrading\Common\bin\Debug\Common.dll
+E:\MiniTrading\MiniTrading\Common\bin\Debug\Common.pdb
+E:\MiniTrading\MiniTrading\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\MiniTrading\MiniTrading\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\MiniTrading\MiniTrading\Common\obj\Debug\Common.dll
+E:\MiniTrading\MiniTrading\Common\obj\Debug\Common.pdb
